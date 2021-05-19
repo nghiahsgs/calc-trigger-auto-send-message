@@ -1,8 +1,9 @@
 # calc-trigger-auto-send-message
 calc trigger auto send message
 
-
-#### Ở bài toán này, tool được đẩy vào ngày bắt đầu, ngày kết thúc + các khoảng thời gian để thực hiện auto gì đó. Ví dụ ngày bắt đầu là 10/02/2021 12h:00 đến ngày 15/02/2021 12h:00 và tần suất gửi là 30m 1 lần
+```
+Ở bài toán này, tool được đẩy vào ngày bắt đầu, ngày kết thúc + các khoảng thời gian để thực hiện auto gì đó. Ví dụ ngày bắt đầu là 10/02/2021 12h:00 đến ngày 15/02/2021 12h:00 và tần suất gửi là 30m 1 lần
+```
 
 Các tần suất được định nghĩa như sau
 
